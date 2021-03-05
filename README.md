@@ -1,2 +1,2 @@
 # WebSkeleton
-Comprehensive skeleton for quick web design based on good practices, Tachyons and AOS
+Comprehensive skeleton for quick web design including [Tachyons](https://tachyons.io) and [AOS](https://michalsnik.github.io/aos/)
